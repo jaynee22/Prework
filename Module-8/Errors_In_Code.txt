@@ -1,0 +1,13 @@
+HTML Errors:
+not clean code.
+missing <h1></h1>
+missing <p></p> for panel body
+missing https://en.wikipedia.org/wiki/Boo_(dog) link
+missing </div>
+missing <li>
+miss labeled botton id
+wrong file attached for JS
+
+JS Errors
+not clean code
+missing "" for click and color 
